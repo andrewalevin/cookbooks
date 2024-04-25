@@ -2,4 +2,4 @@
 🍱 Cookbooks of Dev Practice
 
 
-- [python-pypi](python-pypi) - [python-pypi.md](python-pypi.md)
+- [python-pypi](python-pypi) - {[python-pypi.md](python-pypi.md)}
